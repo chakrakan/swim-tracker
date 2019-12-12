@@ -1,7 +1,8 @@
 # Swim-Tracker
 
 A fully featured swim tracking application meant to be used by clubs to track their swimmers, coaches, swim-meets, events, and timings for each swimmer for events. 
-Final project for Programming II at Centennial College.
+
+Built as the final project for Programming II (COMP-123) at Centennial College.
 
 ## Demo Images:
 
