@@ -22,4 +22,5 @@ Built as the final project for Programming II (COMP-123) at Centennial College.
 ![EventsManager](https://github.com/chakrakan/swim-tracker/blob/master/demo/5.PNG)
 ---
 ### Swim Meet manager to create meets for clubs and seed meets with swimmers
-![SwimMeets](https://github.com/chakrakan/swim-trackerr/blob/master/demo/6.PNG)
+
+![SwimMeets](https://github.com/chakrakan/swim-tracker/blob/master/demo/6.PNG)
